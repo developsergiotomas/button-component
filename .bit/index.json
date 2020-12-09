@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "bundlers/vue"
+    },
+    "isSymlink": false,
+    "hash": "bfc6b3dffe3103a5c902adbc75aca432dc3f4e3d"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "hello-world"
+    },
+    "isSymlink": true,
+    "hash": "fbb969117edfa916b86dfb67fd11decf1e336df0"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "sst-button"
+    },
+    "isSymlink": true,
+    "hash": "05add8f9c8101a96431f6d2876e2ac74221cffae"
+  },
+  {
+    "id": {
+      "scope": "developsergiotomas.sergio-components",
+      "name": "hello-world"
+    },
+    "isSymlink": false,
+    "hash": "2c85515c7bee9027376015c8726956c981d14c56"
+  },
+  {
+    "id": {
+      "scope": "developsergiotomas.sergio-components",
+      "name": "sst-button"
+    },
+    "isSymlink": false,
+    "hash": "2e955e3e4cd67ed78ce7ea8a67e3b99d03f7cd27"
+  }
+]
